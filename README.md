@@ -1,325 +1,757 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,25:14213D,55:1E3A8A,80:2563EB,100:D4AF37&height=280&section=header&text=AAKASH%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20in%20the%20Making%20%7C%20Python%20%26%20Machine%20Learning%20Enthusiast&descAlignY=58&descColor=D4AF37"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=850&lines=Python+Full+Stack+Developer;Machine+Learning+%26+Computer+Vision+Enthusiast;Building+Intelligent%2C+Data-Driven+Applications;Always+Learning%2C+Always+Shipping"/>
-<br/><br/>
 
-<p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,30:1e3a8a,60:2563eb,100:06b6d4&text=AAKASH%20S&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=Python%20Full%20Stack%20Developer%20%7C%20Machine%20Learning%20Engineer&descAlignY=58&animation=fadeIn"/>
+
+# 👋 Hello World! I'm **Aakash S**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Python+Full+Stack+Developer;Machine+Learning+Enthusiast;Building+AI+Powered+Applications;Flask+%7C+FastAPI+%7C+SQL+%7C+Machine+Learning;Always+Learning+Something+New"/>
+
+<img src="https://komarev.com/ghpvc/?username=ash-heree&label=Profile%20Views&color=2563eb&style=for-the-badge"/>
+
 <a href="https://github.com/ash-heree">
-<img src="https://img.shields.io/github/followers/ash-heree?style=for-the-badge&logo=github&color=D4AF37&labelColor=0B0F1A"/>
+<img src="https://img.shields.io/github/followers/ash-heree?style=for-the-badge&logo=github&label=Followers"/>
 </a>
+
 <a href="https://www.linkedin.com/in/aakash-s-3710572b0">
-<img src="https://img.shields.io/badge/LinkedIn-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=2563EB"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
+
 <a href="https://aakash-s-portfolio-showcase.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-0B0F1A?style=for-the-badge&logo=googlechrome&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome"/>
 </a>
-<a href="mailto:aakashsrinivasan092@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0B0F1A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=ash-heree&style=for-the-badge&color=D4AF37&labelColor=0B0F1A"/>
-</p>
+
 </div>
-<br/>
-💻 About Me
 
-yamlName:            Aakash S
-Location:        Chennai, Tamil Nadu, India
-Education:       MCA (Pursuing) — University of Madras
-Aspiring Role:   Associate Software Engineer
+---
 
-Focused On:
-  - Python Development
-  - Machine Learning & Computer Vision
-  - Backend Engineering (Flask, FastAPI)
-  - Full Stack Development
+# 💻 Developer Console
 
-Currently Learning:
-  - Flask & FastAPI (advanced patterns)
-  - SQL Optimization
-  - Cloud Fundamentals
+```python
+class Aakash:
 
-<br/>
-🚀 Developer Console
+    def __init__(self):
 
-bashdeveloper@aakash:~$ ./init_profile.sh
+        self.name = "Aakash S"
 
-Loading Python...............✔
-Loading Machine Learning.....✔
-Loading Flask................✔
-Loading FastAPI...............✔
-Loading SQL..................✔
-Loading GitHub...............✔
-Loading Portfolio............✔
+        self.role = "Python Full Stack Developer"
 
-Status: >>> READY TO BUILD 🚀
+        self.location = "Chennai, India"
 
-<br/>
-⚡ Tech Arsenal
+        self.education = "Master of Computer Applications"
 
-<div align="center">
-Languages
+        self.interests = [
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" />
-Backend & APIs
+            "Artificial Intelligence",
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi" />
-Databases
+            "Machine Learning",
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-Machine Learning & AI
+            "Backend Development",
 
-<img src="https://img.shields.io/badge/Pandas-0B0F1A?style=for-the-badge&logo=pandas&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/NumPy-0B0F1A?style=for-the-badge&logo=numpy&logoColor=2563EB"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-0B0F1A?style=for-the-badge&logo=scikitlearn&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/OpenCV-0B0F1A?style=for-the-badge&logo=opencv&logoColor=2563EB"/>
-Tools
+            "Python",
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-<img src="https://img.shields.io/badge/Google_Colab-0B0F1A?style=for-the-badge&logo=googlecolab&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Canva-0B0F1A?style=for-the-badge&logo=canva&logoColor=2563EB"/>
-</div>
-<br/>
-📊 Skill Matrix
+            "Data Science"
+
+        ]
+
+        self.currently_learning = [
+
+            "FastAPI",
+
+            "Flask",
+
+            "System Design",
+
+            "Cloud",
+
+            "Advanced SQL"
+
+        ]
+
+    def motto(self):
+
+        return "Learn -> Build -> Improve -> Repeat"
+
+me = Aakash()
+```
+
+---
+
+# ⚡ Current Status
+
+```text
+██████████████████████████████████
+
+SYSTEM STATUS
+
+✔ Python ............... ONLINE
+
+✔ Machine Learning ..... ONLINE
+
+✔ Flask ................. ONLINE
+
+✔ FastAPI ............... ONLINE
+
+✔ SQL ................... ONLINE
+
+✔ Git ................... ONLINE
+
+✔ Open Source ........... LEARNING
+
+✔ Building New Projects.. ACTIVE
+
+██████████████████████████████████
+```
+---
+
+# <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="30"/> About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
-🚀 Core Development
+<td width="60%">
 
-SkillLevel🐍 Python████████████████████ 95%🌐 HTML & CSS█████████████████░░░ 85%⚡ JavaScript███████████████░░░░░ 75%🗄️ SQL█████████████████░░░ 85%🔥 Flask█████████████████░░░ 85%⚡ FastAPI████████████████░░░░ 80%
+## 👨‍💻 Developer Profile
+
+```yaml
+Name        : Aakash S
+Role        : Python Full Stack Developer
+Location    : Chennai, Tamil Nadu 🇮🇳
+Education   : MCA (Pursuing)
+University  : University of Madras
+Experience  : Machine Learning Intern
+
+Specialization:
+  - Python Development
+  - Machine Learning
+  - AI Applications
+  - Backend Development
+  - Data Analysis
+
+Current Goal:
+  Building real-world AI powered applications
+  and becoming a Software Engineer.
+```
 
 </td>
-<td width="50%" valign="top">
-🤖 Machine Learning
 
-SkillLevel🧠 Machine Learning██████████████████░░ 90%📊 Data Analysis██████████████████░░ 90%🐼 Pandas██████████████████░░ 90%🔢 NumPy█████████████████░░░ 85%👁️ OpenCV████████████████░░░░ 80%🔧 Git & GitHub██████████████████░░ 90%
+<td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ash-heree&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </td>
 </tr>
 </table>
-<br/>
-🎯 Current Focus
+
+---
+
+# 🚀 Tech Arsenal
 
 <div align="center">
-🚀 Learning🎯 BuildingPython Full StackMachine Learning ProjectsFlask & FastAPIAI-Powered ApplicationsSQL OptimizationPortfolio ProjectsCloud FundamentalsReal-World Solutions
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js"/>
+
+### ⚙ Backend Development
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi"/>
+
+### 🗄 Database
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+### 🧠 AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+
+### 🛠 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 
 </div>
-<br/>
-🧩 Technology Ecosystem
 
-text                    Machine Learning & AI
-                            │
-        ┌───────────────────┼───────────────────┐
-        │                   │                   │
-    Python              Backend             Database
-        │                   │                   │
-  Flask • FastAPI        REST APIs        MySQL • SQLite
-        │                   │                   │
-        └───────────────────┼───────────────────┘
-                            │
-                      Git & GitHub
-                            │
-                     VS Code • Colab
+---
 
-<br/>
-💡 Developer Mindset
+# 📈 Skill Matrix
 
-text━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✔ Clean Code            ✔ Team Collaboration
-✔ Continuous Learning   ✔ Building Real Projects
-✔ Problem Solving       ✔ Always Improving
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```text
+Python                     ████████████████████ 95%
 
-<br/>
-🚀 Featured Projects
+Machine Learning           ██████████████████░ 90%
+
+Flask                      █████████████████░░ 85%
+
+FastAPI                    ███████████████░░░░ 80%
+
+SQL                         ████████████████░░ 85%
+
+HTML/CSS                   █████████████████░░ 85%
+
+JavaScript                 ██████████████░░░░░ 75%
+
+Git & GitHub               █████████████████░░ 85%
+
+Problem Solving            ███████████████████ 90%
+
+Communication              ████████████████░░░ 80%
+```
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 Learning Advanced Python Full Stack Development
+- 🤖 Building AI & Machine Learning Projects
+- 🌐 Developing Scalable Web Applications
+- 📊 Exploring Data Science & Analytics
+- ☁ Learning Cloud Technologies
+- 💼 Preparing for Software Engineer Roles
+
+---
+# <img src="https://img.icons8.com/fluency/48/source-code.png" width="35"/> Featured Projects
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D4AF37&center=true&width=700&lines=Building+Real-World+Applications;Machine+Learning+%26+Computer+Vision+Projects;Python+%7C+Flask+%7C+FastAPI"/>
+
+## 🚀 Building AI-Powered Applications with Python & Machine Learning
+
 </div>
 
-🤖 Machine Learning Based Transaction Risk Analysis　·　⭐ Flagship Project
+---
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-Overview
-A machine learning–powered web application that predicts the risk level of financial transactions, helping identify suspicious activity in real time.
+# 🤖 Machine Learning Based Transaction Risk Analysis
 
-Key Features
+> **⭐ Featured Project | AI • Machine Learning • Flask • SQL**
 
+<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTR5NnZ6OHQ4cHZ4c2p4bWd2Nm9mY2l6YTBjMzRtbHdkYjR3OGJqNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
 
-🔐 User login authentication
-📊 Transaction risk prediction
-🤖 Random Forest classifier
-📈 Prediction dashboard & history
-🗄 MySQL database integration
-⚡ Flask web application
+### 📌 Overview
 
+A real-world Machine Learning application that analyzes financial transactions and predicts the **risk level** of each transaction to help identify suspicious or fraudulent activities.
 
-Tech Stack
+---
+
+### 🚀 Features
+
+✅ User Authentication
+
+✅ New Transaction Prediction
+
+✅ Fraud Risk Detection
+
+✅ Random Forest Model
+
+✅ Data Preprocessing
+
+✅ Prediction Dashboard
+
+✅ Prediction History
+
+✅ SQL Database Integration
+
+✅ Risk Classification
+
+✅ Flask Web Application
+
+---
+
+### ⚙ Tech Stack
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=python,flask,mysql"/>
-<img src="https://img.shields.io/badge/Random%20Forest-0B0F1A?style=for-the-badge&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Pandas-0B0F1A?style=for-the-badge&logo=pandas&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-0B0F1A?style=for-the-badge&logo=scikitlearn&logoColor=2563EB"/>
-<br clear="right"/>
 
-🧠 Hybrid Neuro-Symbolic Machine Learning (Sudoku Solver)
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-<img align="right" width="220" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-Overview
-Combines neural guidance with symbolic reasoning to efficiently solve constraint-based logical reasoning problems.
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 
-Features
+<img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge"/>
 
+</p>
 
-🧠 Neural guidance
-♟ Constraint solving
-⚡ Optimized backtracking
-🤖 AI-driven reasoning
+---
 
+### 🎯 What I Learned
 
-<img src="https://img.shields.io/badge/Python-0B0F1A?style=for-the-badge&logo=python&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Symbolic%20AI-0B0F1A?style=for-the-badge&logoColor=2563EB"/>
-<br clear="right"/>
+✔ Machine Learning Workflow
 
-🖐 AI Virtual Mouse
+✔ Data Cleaning
 
-Overview
-Controls mouse movements using computer vision and real-time hand gesture recognition.
+✔ Feature Engineering
 
-Features
+✔ Model Training
 
+✔ Flask Development
 
-👋 Hand tracking
-🖱 Cursor movement
-👆 Left & right click
-🔄 Scroll detection
+✔ SQL Integration
 
+✔ Deployment Ready Structure
+
+---
+
+<br>
+
+# 🧠 Hybrid Neuro-Symbolic Machine Learning
+
+> Python • AI • Logical Reasoning
+
+### 📌 Description
+
+Developed an intelligent Sudoku Solver by combining Neural predictions with Symbolic reasoning to efficiently solve constraint-based problems.
+
+### 🚀 Features
+
+- Neural Guidance
+- Constraint Satisfaction
+- Backtracking Optimization
+- Python Implementation
+- AI Reasoning
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-6A5ACD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Symbolic%20AI-0A66C2?style=for-the-badge"/>
+
+---
+
+# 🖐 AI Virtual Mouse
+
+> Computer Vision • OpenCV • MediaPipe
+
+### 📌 Description
+
+Control the computer using only hand gestures.
+
+### 🚀 Features
+
+✔ Cursor Movement
+
+✔ Left Click
+
+✔ Right Click
+
+✔ Scroll
+
+✔ Gesture Recognition
 
 <img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://img.shields.io/badge/OpenCV-0B0F1A?style=for-the-badge&logo=opencv&logoColor=2563EB"/>
-<img src="https://img.shields.io/badge/MediaPipe-0B0F1A?style=for-the-badge&logoColor=D4AF37"/>
 
-🌦 Weather Forecast Application
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
 
-Overview
-A weather forecast application built with FastAPI and live weather APIs.
+<img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge"/>
 
-Features
+---
 
+# 🌦 Weather Forecast Application
 
-🌍 Live weather data
-🌡 Temperature & forecast
-⚡ REST API integration
-🎨 Responsive UI
+> FastAPI • REST API
 
+### 📌 Description
+
+Weather forecasting application providing real-time weather information with a clean user interface.
+
+### Features
+
+- Live Weather
+- REST API
+- Dynamic UI
+- FastAPI Backend
 
 <img src="https://skillicons.dev/icons?i=fastapi"/>
 
-🎮 E-Commerce Web Application for Game Sales
+---
 
-Overview
-A game store application built on a low-code platform with automated order workflows.
+# 🎮 E-Commerce Web Application
 
-Features
+> Low-Code Development
 
+### 📌 Description
 
-🛒 Product management
-📦 Order processing
-📧 Gmail notifications
-⚙ Workflow automation
+Developed an E-Commerce application for selling game products with automated workflows and email notifications.
 
+### Features
 
-<br/>
+✔ Workflow Automation
+
+✔ Gmail Notifications
+
+✔ Product Management
+
+✔ UI Design
+
+---
+
 <div align="center">
-📈 Project Summary
 
-ProjectsTechnologiesML ProjectsInternships5+15+32
+## 🚀 Project Statistics
+
+| Projects | Technologies | Internship | AI Projects |
+|----------:|-------------:|-----------:|------------:|
+| **5+** | **15+** | **2** | **3** |
 
 </div>
-<br/>
-📊 GitHub Analytics Dashboard
+
+---
+# <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="35"/> GitHub Analytics Dashboard
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ash-heree&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0B0F1A&title_color=D4AF37&icon_color=2563EB&text_color=F5F5F5&border_radius=12"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash-heree&layout=compact&theme=radical&hide_border=true&bg_color=0B0F1A&title_color=D4AF37&text_color=F5F5F5&border_radius=12"/>
-</div>
-<div align="center">
-🔥 GitHub Streak
 
-<img width="75%" src="https://streak-stats.demolab.com?user=ash-heree&theme=highcontrast&hide_border=true&background=0B0F1A&ring=D4AF37&fire=2563EB&currStreakLabel=D4AF37&sideLabels=F5F5F5&dates=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5&stroke=0B0F1A&border_radius=12"/>
-</div>
-<div align="center">
-📈 Contribution Graph
+## 📊 Developer Performance Dashboard
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ash-heree&theme=react-dark&bg_color=0B0F1A&color=D4AF37&line=2563EB&point=F5F5F5&area=true&hide_border=true"/>
-</div>
-<div align="center">
-🏆 GitHub Trophies
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ash-heree&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ash-heree&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
-</div>
-<br/>
-💼 Career Timeline
-
-text                🎯 Associate Software Engineer  (goal)
-                             ▲
-                             │
-                 Python Full Stack Development
-                             │
-     🤖 Machine Learning Based Transaction Risk Analysis
-               Python • Flask • SQL • ML
-                             │
-           🧠 Machine Learning Internship
-                    Vcodez (2025 – 2026)
-                             │
-          🎓 Master of Computer Applications
-             University of Madras (2024 – Present)
-                             │
-         💼 Data Science Internship
-        ICT Academy & OpenWeaver (2023)
-                             │
-        🎓 Bachelor of Computer Applications
-       S.A. College of Arts and Science (2021 – 2024)
-                             ▼
-                   🌱 Started Coding
-
-<br/>
-🏅 Certifications
-
-<div align="center">
-CertificationStatusMicrosoft 360° (Naan Mudhalvan)✅Infosys Springboard — Artificial Intelligence✅Computer Vision 101✅Deep Learning✅Natural Language Processing✅OpenAI GPT Models✅
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash-heree&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-<br/>
-🎯 Current Goals
 
-text✅ Master Python Full Stack Development
-✅ Build Real-World Machine Learning Applications
-✅ Contribute to Open Source
-✅ Learn Cloud Deployment
-✅ Land an Associate Software Engineer Role
-
-<br/>
-🌐 Connect With Me
+---
 
 <div align="center">
-<a href="https://github.com/ash-heree">
-<img src="https://img.shields.io/badge/GitHub-0B0F1A?style=for-the-badge&logo=github&logoColor=F5F5F5"/>
-</a>
+
+## 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=ash-heree&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ash-heree&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=ash-heree&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# ⚡ Developer Dashboard
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🚀 Current Status
+
+```text
+System Status
+
+🟢 Python                 ONLINE
+
+🟢 Machine Learning       ONLINE
+
+🟢 Flask                  ONLINE
+
+🟢 SQL                    ONLINE
+
+🟢 Git                    ONLINE
+
+🟢 Learning               ACTIVE
+```
+
+</td>
+
+<td width="50%">
+
+## 🎯 2026 Goals
+
+```text
+☑ Complete Python Full Stack
+
+☑ Build AI Portfolio
+
+☑ Master Flask
+
+☑ Improve SQL
+
+☑ Learn Cloud Basics
+
+☐ Contribute to Open Source
+
+☐ Land Software Engineer Role
+```
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💼 Career Timeline
+
+```text
+2023
+│
+├── 🎓 BCA Projects
+│
+├── 💼 ICT Academy & OpenWeaver
+│      Data Science Internship
+│
+▼
+
+2024
+│
+├── 🎓 Started MCA
+│
+▼
+
+2025
+│
+├── 🤖 Vcodez
+│      Machine Learning Internship
+│
+▼
+
+2026
+│
+├── 🚀 Machine Learning Based Transaction Risk Analysis
+│
+├── 🖐 AI Virtual Mouse
+│
+├── 🌦 Weather Application
+│
+├── 💻 Python Full Stack Development
+│
+▼
+
+Future
+│
+└── 🎯 Associate Software Engineer
+```
+
+---
+
+# 🏅 Certifications
+
+<div align="center">
+
+| 🎓 Certification | Status |
+|-----------------|--------|
+| Microsoft 360° | ✅ Completed |
+| Infosys Springboard AI | ✅ Completed |
+| Computer Vision 101 | ✅ Completed |
+| Deep Learning | ✅ Completed |
+| NLP | ✅ Completed |
+| OpenAI GPT Models | ✅ Completed |
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
 <a href="https://www.linkedin.com/in/aakash-s-3710572b0">
-<img src="https://img.shields.io/badge/LinkedIn-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=2563EB"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://aakash-s-portfolio-showcase.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-0B0F1A?style=for-the-badge&logo=google-chrome&logoColor=D4AF37"/>
-</a>
-<a href="mailto:aakashsrinivasan092@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0B0F1A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-</div>
-<br/>
-<div align="center">
-💬 "Code. Learn. Build. Improve. Repeat."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:2563EB,100:0B0F1A&height=120&section=footer"/>
+<a href="https://aakash-s-portfolio-showcase.lovable.app">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:aakashsrnivasan092@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Favorite Quote
+
+> **"The best way to predict the future is to build it."**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=140&section=footer"/>
+
+### ⭐ Thanks for visiting my GitHub Profile!
+
+### 🚀 *Learn • Build • Improve • Repeat*
+
+</div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:2563EB&height=2&section=header"/>
+
+</div>
+
+# 🌟 Coding Philosophy
+
+<div align="center">
+
+> **"Every line of code is an opportunity to learn, improve, and create something meaningful."**
+
+</div>
+
+```text
+Think  →  Design  →  Build  →  Test  →  Improve  →  Deploy
+```
+
+---
+
+# 🎯 2026 Learning Roadmap
+
+<div align="center">
+
+| Goal | Progress |
+|------|:--------:|
+| 🐍 Advanced Python | 🟢 90% |
+| 🌐 Flask Development | 🟢 85% |
+| ⚡ FastAPI | 🟢 80% |
+| 🗄 SQL & Database Design | 🟢 85% |
+| 🤖 Machine Learning | 🟢 90% |
+| ☁ Cloud Fundamentals | 🟡 In Progress |
+| 🐳 Docker | 🔵 Planned |
+| 🚀 Deployment | 🔵 Planned |
+
+</div>
+
+---
+
+# 💡 Areas of Interest
+
+<div align="center">
+
+| 🤖 Artificial Intelligence | 📊 Data Science |
+|----------------------------|----------------|
+| 🧠 Machine Learning | 🌐 Backend Development |
+| 🔐 Cyber Security | ⚡ API Development |
+| ☁ Cloud Computing | 💻 Full Stack Development |
+
+</div>
+
+---
+
+# 📌 Currently Working On
+
+```text
+✅ Python Full Stack Development
+
+✅ Machine Learning Projects
+
+✅ Building Portfolio Projects
+
+✅ Improving Problem Solving Skills
+
+✅ Learning Modern Backend Development
+```
+
+---
+
+# 📚 Favorite Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=flask"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=fastapi"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=git"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=github"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+💼 Open to Software Engineer Opportunities
+
+🤝 Open for Collaboration
+
+📚 Always Learning New Technologies
+
+🚀 Building Real-World Applications
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 Find Me Around the Web
+
+<a href="https://github.com/ash-heree">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aakash-s-3710572b0">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://aakash-s-portfolio-showcase.lovable.app">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+<a href="mailto:aakashsrnivasan092@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Fun Fact
+
+```text
+while(alive){
+
+    Learn();
+
+    Build();
+
+    Improve();
+
+    Repeat();
+
+}
+```
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting!
+
+If you like my work, consider ⭐ starring my repositories.
+
+### 🚀 Keep Learning • Keep Building • Keep Growing
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:2563EB,100:0F172A&height=150&section=footer"/>
+
 </div>
